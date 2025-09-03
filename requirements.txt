@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+pillow
+scikit-learn
+matplotlib
+nltk
+sdv
+ctgan
+ydata-synthetic
+transformers
+sentencepiece
+torch
+torchvision
+diffusers
+accelerate
+safetensors
