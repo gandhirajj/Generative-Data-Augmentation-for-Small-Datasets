@@ -4,7 +4,7 @@
 🚀 A powerful **Streamlit application** for generating synthetic data across **tabular, text, and image** domains. This toolkit helps researchers, students, and startups overcome the challenge of limited datasets by creating realistic augmented samples using **Generative AI** and classical techniques.
 
 ---
-
+Live Demo Link: https://generative-data-augmentation-for-small-datasets-19.streamlit.app/
 ## ✨ Features
 
 ### 📊 Tabular Data
