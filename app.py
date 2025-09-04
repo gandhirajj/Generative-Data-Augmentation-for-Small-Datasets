@@ -416,5 +416,3 @@ else:  # Images
 st.caption(f"Built at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
 
 
-
-for image what model used 
