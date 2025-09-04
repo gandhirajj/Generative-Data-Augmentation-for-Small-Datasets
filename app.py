@@ -309,7 +309,7 @@ if section == "Tabular":
     st.subheader("📊 Tabular Augmentation")
     file = st.file_uploader("Upload CSV", type=["csv"]) 
     col1, col2, col3 = st.columns([1,1,1])
-    n_samples = col1.number_input("# synthetic rows", min_value=10, max_value=100000, value=500, step=10)
+    n_samples = col1.number_input("# synthetic rows", min_value=10, max_value=100000, value=500, step=50)
     target_col = col2.text_input("Target column (optional for balancing)")
     per_class = col3.number_input("Per-class min rows (if target given)", min_value=0, max_value=100000, value=0, step=10)
 
